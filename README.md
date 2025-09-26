@@ -39,13 +39,13 @@ Tailwind CSS – Utility-first styling
 Intersection Observer – Detects scroll position for infinite loading
 
 # 1️⃣ Clone the repository
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/Ankit-78/Assignment.git
 
 # 2️⃣ Navigate into the project folder
-cd <repo-name>
+cd my-gallery-app
 
 # 3️⃣ Install dependencies
 npm install
 
 # 4️⃣ Start the development server
-npm start
+npm run dev
